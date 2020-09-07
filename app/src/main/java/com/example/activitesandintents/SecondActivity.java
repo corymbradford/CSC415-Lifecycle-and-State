@@ -8,6 +8,10 @@ import android.view.View;
 import android.widget.EditText;
 import android.widget.TextView;
 
+/**
+ * @author Cory Bradford
+ * @version 1.0
+ */
 public class SecondActivity extends AppCompatActivity {
 
     public static final String EXTRA_REPLY =
